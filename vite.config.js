@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/invoice-generator/', // ✅ EXACT repo name with slashes
+  base: 'https://github.com/Darshann2001/invoice-generator/', // ✅ EXACT repo name with slashes
 })
